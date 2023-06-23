@@ -26,4 +26,10 @@ print(dynamicVar);
 var varOutput;
 varOutput = 12;
 print(varOutput);
+
+dynamic dynamicVariable = 32.44;
+print(dynamicVariable);
+dynamicVariable = 'This is from a dynamic variable';
+print(dynamicVariable);
+
 }
