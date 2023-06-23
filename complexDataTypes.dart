@@ -19,5 +19,11 @@ print(finalInt);
 const constInt = 34324;
 print(constInt);
 
+//undefined type 
+dynamic dynamicVar =32432; 
+print(dynamicVar);
 
+var varOutput;
+varOutput = 12;
+print(varOutput);
 }
