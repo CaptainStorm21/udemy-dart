@@ -1,0 +1,8 @@
+final 
+  after first initialization not chanable in this lifecycle
+const 
+  set while compliling not changeble 
+var 
+  type is assigned automatically 
+late 
+  to say we wil assign the variable a value later
