@@ -15,4 +15,9 @@ print(exampleInt);
 
 final int finalInt = 3;
 print(finalInt);
+
+const constInt = 34324;
+print(constInt);
+
+
 }
